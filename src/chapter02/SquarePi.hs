@@ -1,0 +1,1 @@
+squarePi x = (x * x) * pi
